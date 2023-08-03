@@ -1,13 +1,12 @@
 package com.app.mirongdevbasiclibrary;
 
-import static com.app.mylibrary.ToastHelper.alertToast;
-
 import android.os.Bundle;
 import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.app.mylibrary.ButtonCustom;
+import static com.app.mylibrary.ToastHelper.alertToast;
 
 public class MainActivity extends AppCompatActivity {
 
