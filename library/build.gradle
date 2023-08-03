@@ -79,9 +79,9 @@ dependencies {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = 'com.solodroid.ads.sdk'
+            groupId = 'com.github.mirongdev'
             artifactId = 'mirongdev-basic-library'
-            version = '0.0.9'
+            version = '0.0.10'
 
             afterEvaluate {
                 from components.release
